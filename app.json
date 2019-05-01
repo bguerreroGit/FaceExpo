@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Reconocimiento Facial",
+    "slug": "faceexpo",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.BaltaCompany.face"
+    },
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2135cb"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "hey ya"
+  }
+}
