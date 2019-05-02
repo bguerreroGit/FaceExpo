@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Wed May 01 20:33:06 CDT 2019
+2.base=/home/balta/Escritorio/faceexpo/android/app/build/intermediates/assets/devKernel/debug
+0.path=kernel-manifest.json
+2.baseType=DIRECTORY
+3.base=/home/balta/Escritorio/faceexpo/android/app/build/intermediates/assets/devKernel/debug
+2.set=ASSET
+1.path=cascade.xml
+4.base=/home/balta/Escritorio/faceexpo/android/app/build/intermediates/assets/devKernel/debug
+count=5
+2.path=shell-app.bundle
+4.set=ASSET
+3.path=shell-app-manifest.json
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=lbp.xml
+1.baseType=DIRECTORY
+0.base=/home/balta/Escritorio/faceexpo/android/app/build/intermediates/assets/devKernel/debug
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=/home/balta/Escritorio/faceexpo/android/app/build/intermediates/assets/devKernel/debug
+4.baseType=DIRECTORY
+0.set=ASSET

@@ -19,3 +19,10 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+
+
+ /*"adaptiveIcon": {
+        "backgroundColor": "#2135cb",
+        "foregroundImage": "./assets/icon-fg.png"
+      },
+      */

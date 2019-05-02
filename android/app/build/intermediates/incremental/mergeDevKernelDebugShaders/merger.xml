@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/balta/Escritorio/faceexpo/android/app/src/main/shaders"/></dataSet><dataSet config="devKernel"><source path="/home/balta/Escritorio/faceexpo/android/app/src/devKernel/shaders"/></dataSet><dataSet config="debug"><source path="/home/balta/Escritorio/faceexpo/android/app/src/debug/shaders"/></dataSet><dataSet config="devKernelDebug"><source path="/home/balta/Escritorio/faceexpo/android/app/src/devKernelDebug/shaders"/></dataSet></merger>
